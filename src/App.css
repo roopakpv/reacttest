@@ -1,0 +1,39 @@
+.artwork-list {
+  padding: 20px;
+}
+
+.artwork-grid {
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.link-reset {
+  text-decoration: none;
+  color: inherit;
+}
+.pointer{
+  cursor: pointer;
+}
+.marginb{
+  margin-bottom: 0px;
+}
+.artwork-item img {
+  width: 100%;
+  height: auto;
+}
+
+.pagination {
+  margin-top: 20px;
+}
+
+.pagination button {
+  margin: 0 5px;
+}
+
+.artwork-detail {
+  padding: 20px;
+}
+
+.artwork-detail img {
+  width: 300px;
+  height: auto;
+}

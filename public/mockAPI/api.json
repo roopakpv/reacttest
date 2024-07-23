@@ -1,0 +1,124 @@
+{
+    "artworks": [
+      {
+        "id": 1,
+        "title": "Starry Night",
+        "artist_display": "Vincent van Gogh",
+        "date_display": "1889",
+        "main_reference_number": "F612",
+        "thumbnail": "https://example.com/mona-lisa.jpg",
+        "img": "images.jpg",
+        "dimensions": "73.7 cm × 92.1 cm"
+      },
+      {
+        "id": 2,
+        "img": "images2.jpg",
+        "title": "Mona Lisa",
+        "artist_display": "Leonardo da Vinci",
+        "date_display": "1503-1506",
+        "main_reference_number": "779",
+        "thumbnail": "https://example.com/mona-lisa.jpg",
+        "dimensions": "77 cm × 53 cm"
+      },
+      {
+        "id": 3,
+        "title": "The Persistence of Memory",
+        "img": "images3.jpg",
+        "artist_display": "Salvador Dalí",
+        "date_display": "1931",
+        "main_reference_number": "1185",
+        "thumbnail": "https://example.com/persistence-of-memory.jpg",
+        "dimensions": "24 cm × 33 cm"
+      },
+      {
+        "id": 4,
+        "title": "The Scream",
+        "artist_display": "Edvard Munch",
+        "img": "images4.jpg",
+        "date_display": "1893",
+        "main_reference_number": "833",
+        "thumbnail": "https://example.com/the-scream.jpg",
+        "dimensions": "91 cm × 73.5 cm"
+      },
+      {
+        "id": 5,
+        "title": "The Night Watch",
+        "artist_display": "Rembrandt van Rijn",
+        "date_display": "1642",
+        "img": "images5.jpg",
+        "main_reference_number": "2424",
+        "thumbnail": "https://example.com/the-night-watch.jpg",
+        "dimensions": "363 cm × 437 cm"
+      },
+      {
+        "id": 6,
+        "title": "Girl with a Pearl Earring",
+        "artist_display": "Johannes Vermeer",
+        "img": "images6.jpg",
+        "date_display": "1665",
+        "main_reference_number": "870",
+        "thumbnail": "https://example.com/girl-with-a-pearl-earring.jpg",
+        "dimensions": "44.5 cm × 39 cm"
+      },
+      {
+        "id": 7,
+        "title": "The Last Supper",
+        "artist_display": "Leonardo da Vinci",
+        "date_display": "1495-1498",
+        "img": "images7.jpg",
+        "main_reference_number": "4112",
+        "thumbnail": "https://example.com/the-last-supper.jpg",
+        "dimensions": "460 cm × 880 cm"
+      },
+      {
+        "id": 8,
+        "title": "Guernica",
+        "artist_display": "Pablo Picasso",
+        "date_display": "1937",
+        "img": "images8.jpg",
+        "main_reference_number": "202",
+        "thumbnail": "https://example.com/guernica.jpg",
+        "dimensions": "349 cm × 776 cm"
+      },
+      {
+        "id": 9,
+        "title": "The Kiss",
+        "artist_display": "Gustav Klimt",
+        "date_display": "1907-1908",
+        "img": "images9.jpg",
+        "main_reference_number": "1851",
+        "thumbnail": "https://example.com/the-kiss.jpg",
+        "dimensions": "180 cm × 180 cm"
+      },
+      {
+        "id": 10,
+        "title": "The Birth of Venus",
+        "artist_display": "Sandro Botticelli",
+        "date_display": "1484-1486",
+        "img": "images10.jpg",
+        "main_reference_number": "234",
+        "thumbnail": "https://example.com/the-birth-of-venus.jpg",
+        "dimensions": "172.5 cm × 278.9 cm"
+      },
+      {
+        "id": 11,
+        "title": "American Gothic",
+        "artist_display": "Grant Wood",
+        "date_display": "1930",
+        "img": "images11.jpg",
+        "main_reference_number": "901",
+        "thumbnail": "https://example.com/american-gothic.jpg",
+        "dimensions": "78 cm × 65.3 cm"
+      },
+      {
+        "id": 12,
+        "title": "The Dark Night",
+        "artist_display": "Vincent Gogh",
+        "date_display": "1889",
+        "img": "images12.jpg",
+        "main_reference_number": "678",
+        "thumbnail": "https://example.com/the-starry-night.jpg",
+        "dimensions": "73.7 cm × 92.1 cm"
+      }
+    ]
+  }
